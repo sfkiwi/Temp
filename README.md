@@ -16,7 +16,7 @@
    
    b. Clone
    ```
-   git clone git@github.com:fromscraatch/scraatch.git
+   git clone git@github.com:sfkiwi/Temp.git
    ```
    c. Install dependencies
    ```

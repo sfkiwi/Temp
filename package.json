@@ -1,20 +1,20 @@
 {
-  "name": "Scraatch",
+  "name": "Temp",
   "version": "0.0.1",
-  "description": "Scraatch.co website",
+  "description": "Temp website",
   "main": "Gruntfile.js",
   "scripts": {},
   "contributors": [
     {
-      "name": "Verdi Ergun",
-      "email": "vergun@gmail.com",
-      "twitter": "@vergun"
+      "name": "Mike Sutherland",
+      "email": "mjfsutherland@gmail.com",
+      "twitter": "@kiwi"
     }
   ],
   "license": "",
   "repository": {
     "type": "git",
-    "url": "http://www.scraatch.co"
+    "url": "http://www.jointemp.com"
   },
   "devDependencies": {
     "grunt": "^0.4.4",

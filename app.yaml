@@ -1,4 +1,4 @@
-application: fromscraatch2
+application: deep-freehold-815
 version: 1
 runtime: python27
 threadsafe: yes
